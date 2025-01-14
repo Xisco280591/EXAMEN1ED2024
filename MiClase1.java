@@ -6,6 +6,8 @@ public class MiClase1
         {
             System.out.println("12 * "+ i + " = " + 12 * i + "\n");
             System.out.println("Se añade esta linea para generar conflicto");
+            System.out.println("¿Como estas?");
+            System.out.println("Cambio de Marcelo");
         }
     }
 }
